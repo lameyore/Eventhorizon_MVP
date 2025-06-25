@@ -1,0 +1,2 @@
+App api_id: 23538457
+App api_hash: e951f8edb6d75602a5772d31312f936e
